@@ -1,3 +1,7 @@
+######################################################################################
+### API Rest Residencias ## LABORATORIO PARA EL DESPLIEGUE DE APLICACIONES "AD-24" ###
+######################################################################################
+
 from app import create_app
 
 app = create_app()
